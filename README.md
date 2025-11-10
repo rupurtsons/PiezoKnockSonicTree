@@ -34,6 +34,6 @@ Up to 5 sensors can be active, each mapped to a different sound file.
 
 
 This project is released under the MIT License.
-Feel free to remix, and use it for your own installations or performances.
+Feel free to fork, remix, and use it for your own installations or performances.
 If you build on it, please credit:
 Teresa Wang – Cubison (2025)
