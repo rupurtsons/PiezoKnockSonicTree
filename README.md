@@ -1,4 +1,4 @@
-# PiezoKnockSonicTree
+# Cubison
 This is an open-source experiment connecting piezo sensors to an Arduino and Processing to transform physical touch and vibration into layered, reverberating sound.
 Each sensor detects taps or knocks on different surfaces, and the data is sent over serial to Processing, which plays audio samples with varying volume and reverb based on how hard the surface is hit.
 
